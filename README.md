@@ -110,4 +110,59 @@ The wording may create unrealistic expectations about AI capabilities.
 
 Coherence: 2
 The reasoning is logically structured, but it relies on exaggerated assumptions about AI progress.
-...
+
+## Example Evaluations
+
+### Example 1 — Factual Error
+
+Prompt:
+What is the capital of Brazil?
+
+AI Response:
+The capital of Brazil is Rio de Janeiro.
+
+Evaluation:
+
+Clarity: 2
+The response is clear and easy to understand.
+
+Factual Correctness: 0
+The capital of Brazil is Brasília, not Rio de Janeiro.
+
+Logical Coherence: 2
+The response is internally consistent but factually incorrect.
+
+### Example 2 — Technological Exaggeration
+
+Prompt:
+Explain artificial intelligence.
+
+AI Response:
+Artificial intelligence will soon replace all human jobs.
+
+Evaluation:
+
+Clarity: 2
+The response is easy to understand.
+
+Factual Correctness: 1
+The statement exaggerates current AI capabilities.
+
+Logical Coherence: 2
+The reasoning is internally consistent but overly speculative.
+
+### Example 3 — Inconsistent Reasoning
+
+Prompt:
+Is exercise good for health?
+
+AI Response:
+Exercise is good for health because it improves the heart. However, exercise does not affect the body much.
+
+Evaluation:
+
+Clarity: 2
+The text is understandable.
+
+Logical Coherence: 0
+The response contradicts itself by saying exercise improves health but also saying it does not affect the body much.
