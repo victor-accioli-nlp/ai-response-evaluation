@@ -44,4 +44,47 @@ The internal reasoning of the response is logically consistent.
 
 ---
 
+
 More examples will be added to demonstrate reasoning analysis and AI alignment evaluation.
+
+## Example Evaluation 2
+Prompt: What is the capital of Australia?
+
+AI Response:
+The capital of Australia is Sydney, which is the largest and most important city in the country.
+
+Evaluation:
+
+Clarity: 2
+The response is clear and easy to understand.
+
+Correctness: 0
+The answer contains a factual error. The capital of Australia is Canberra, not Sydney.
+
+Adequacy for audience: 2
+The explanation is simple and appropriate for a general audience.
+
+Coherence: 2
+The reasoning is internally consistent, but based on incorrect factual information.
+
+
+## Example Evaluation 3
+Prompt: What can artificial intelligence do today?
+
+AI Response:
+Artificial intelligence can solve almost any problem, understand everything like humans, and will soon replace most human jobs.
+
+Evaluation:
+
+Clarity: 2
+The statement is easy to understand.
+
+Correctness: 1
+The claim exaggerates current AI capabilities. While AI can perform many tasks, it does not understand everything like humans and cannot solve nearly any problem.
+
+Adequacy for audience: 1
+The wording may create unrealistic expectations about AI capabilities.
+
+Coherence: 2
+The reasoning is logically structured, but it relies on exaggerated assumptions about AI progress.
+...
