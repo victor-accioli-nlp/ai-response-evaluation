@@ -9,6 +9,7 @@ The goal is to demonstrate skills in:
 • reasoning analysis  
 • AI safety awareness  
 • model alignment evaluation
+
 This repository contains examples of AI response evaluation focused on:
 
 - Clarity
