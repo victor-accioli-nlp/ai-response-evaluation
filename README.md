@@ -2,7 +2,9 @@
 
 
 This repository contains examples of structured evaluation of AI-generated responses.
+# AI Response Evaluation Examples
 
+This repository contains examples of AI response evaluations focused on Natural Language Processing (NLP) tasks.
 The goal is to demonstrate skills in:
 
 • AI response quality evaluation  
