@@ -47,6 +47,12 @@ Independent AI evaluation learner focused on NLP and model analysis.
 
 ## Evaluation Criteria
 
+Reasoning Quality (0–2)
+
+0: Illogical or contradictory reasoning
+1: Reasoning partially valid but flawed
+2: Logical and consistent reasoning
+
 ## Types of Issues Evaluated
 
 This project includes evaluation examples involving:
