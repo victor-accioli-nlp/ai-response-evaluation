@@ -20,6 +20,27 @@ This repository contains examples of AI response evaluation focused on:
 
 The evaluations simulate real tasks performed in AI training and model evaluation projects.
 
+## Types of Issues Evaluated
+
+This project includes evaluation examples involving:
+
+- Factual errors
+- Technological exaggeration
+- Inconsistent reasoning
+- Audience adequacy problems
+- ## Evaluation Method
+
+Each response is evaluated using a structured scoring system:
+
+0 – Poor  
+1 – Needs improvement  
+2 – Good
+
+## Author
+
+Victor Accioli  
+Independent AI evaluation learner focused on NLP and model analysis.
+
 ## Example Evaluation
 
 Prompt:
