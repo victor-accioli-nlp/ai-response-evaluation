@@ -47,6 +47,15 @@ Independent AI evaluation learner focused on NLP and model analysis.
 
 ## Evaluation Criteria
 
+## Types of Issues Evaluated
+
+This project includes evaluation examples involving:
+
+- factual errors
+- technological exaggeration
+- inconsistent reasoning
+- misleading simplifications
+
 AI responses are evaluated using the following criteria:
 
 **Clarity (0–2)**
