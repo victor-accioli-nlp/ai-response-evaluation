@@ -1,5 +1,14 @@
 # AI Response Evaluation Portfolio
 
+
+This repository contains examples of structured evaluation of AI-generated responses.
+
+The goal is to demonstrate skills in:
+
+• AI response quality evaluation  
+• reasoning analysis  
+• AI safety awareness  
+• model alignment evaluation
 This repository contains examples of AI response evaluation focused on:
 
 - Clarity
