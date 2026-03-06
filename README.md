@@ -45,6 +45,24 @@ Independent AI evaluation learner focused on NLP and model analysis.
 
 ## Example Evaluation
 
+## Evaluation Criteria
+
+AI responses are evaluated using the following criteria:
+
+**Clarity (0–2)**
+- 0: Confusing or difficult to understand
+- 1: Partially clear but contains ambiguity
+- 2: Clear and easy to understand
+
+**Factual Correctness (0–2)**
+- 0: Contains incorrect factual information
+- 1: Partially correct but misleading
+- 2: Factually accurate
+
+**Logical Coherence (0–2)**
+- 0: Contradictory or inconsistent reasoning
+- 1: Some logical issues
+- 2: Consistent and logically sound
 Prompt:
 Explain what Artificial Intelligence is to a child.
 
