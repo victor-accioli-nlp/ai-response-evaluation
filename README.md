@@ -200,3 +200,12 @@ The text is understandable.
 
 Logical Coherence: 0
 The response contradicts itself by saying exercise improves health but also saying it does not affect the body much.
+
+## Future Work
+
+Future work may include expanding the repository with additional evaluation cases such as:
+
+- hallucinated facts
+- biased responses
+- unsafe instructions
+- misleading simplifications
